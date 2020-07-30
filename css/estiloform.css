@@ -1,0 +1,153 @@
+﻿/* FORMULARIO */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --prim-cl: #f2f8ff;             /* BODY */
+    --seg-cl: #2681ff;              /* MENU */
+    --terc-cl: #2681ff;             /* TITULOS */
+    --quar-cl: #002354;             /* HOVER */
+    --font-cl: black;               /* FONT */
+    --font-menu-cl: white;          /* FONT MENU */
+    --font-menuh-cl: white;         /* FONT MENU HOVER */
+    --font-head-cl: black;          /* FONT HOVER HEADER */
+    --bord-cl: white;               /* BORDA IMG CONTATOS */
+    --scroll-cl: white;             /* SCROLL */
+    --p-cl: rgba(0, 35, 84, 0.9);   /* BACKGROUND REPOSTA FORM */
+}
+
+[data-theme="dark"] {
+    --prim-cl: #3e3e3e;
+    --seg-cl: #242424;
+    --terc-cl: #ea8fff;
+    --quar-cl: black;
+    --font-menu-cl: white;
+    --font-menuh-cl: #ea8fff;
+    --font-head-cl: #ea8fff;
+    --font-cl: white;
+    --bord-cl: white;
+    --scroll-cl: #ea8fff;
+    --p-cl: rgba(0, 0, 0, 0.9);
+}
+
+body {
+    background: var(--prim-cl);
+    font-family: 'Roboto', sans-serif;
+    color: white; 
+}
+
+article {
+    width: 400px;
+    height: auto;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-110px;
+    margin-left:-210px;
+    text-align: center;
+    border: 2px solid var(--seg-cl);
+    border-style: dashed;
+    padding: 10px;
+    color: var(--terc-cl);
+    font-size: 14pt;
+}
+
+.form input {
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12pt;
+}
+
+.form input[type=text] {
+    margin-left: 27px;
+    width: 70%;
+}
+
+.form input[type=email] {
+    margin-left: 26px;
+    width: 70%;
+}
+
+.form input[type=tel] {
+    margin-left: 5px;
+    width: 70%;
+}
+
+.botton {
+    border-style: hidden;
+    background:  var(--seg-cl);
+    color: var(--font-menuh-cl);
+    padding: 5px 10px
+}
+
+.botton:hover {
+    color: var(--font-menuh-cl);
+    background: var(--quar-cl);
+}
+
+#printar {
+    width: 100%;
+    top:50%;
+    margin-top:-47px;
+    position: absolute;
+    background:  var(--p-cl);
+    text-align: center;
+    line-height: 25px;
+}
+
+/* RESPONSIVO */
+/* Smartphones em retrato */
+@media only screen and (max-width: 768px) {
+    #printar {
+        width: 60%;
+        left: 20%;
+    }
+}
+/* Smartphones em retrato */
+@media(max-width:450px) {
+    article {
+        width: 280px;
+        top:50%;
+        left:53%;
+        margin-top:-80px;
+        margin-left:-160px;
+    }
+    article legend {
+        display: none;
+    }
+    
+    .form input {
+        margin-top: 11px;
+        font-size: 11pt;
+    }
+
+    .form input[type=text] {
+        width: 60%;
+    }
+
+    .form input[type=email] {
+        width: 60%;
+    }
+
+    .form input[type=tel] {
+        width: 60%;
+    }
+    
+    #demo {
+        width: 80%;
+        margin: 0 auto;
+        position: relative;
+        background:  var(--p-cl);
+        margin-top: 18%;
+        text-align: center;
+    }
+    
+    #printar {
+        width: 100%;
+        left: 0px;
+    }
+}
