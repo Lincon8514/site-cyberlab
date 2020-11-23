@@ -1,4 +1,4 @@
-<h1 align="center">💻️CyberLab </h1> 
+<h1 align="center">CyberLab</h1> 
 
 ## Descrição:
 <h3 align="center">
@@ -7,7 +7,7 @@ Este é um projeto de website institucional, que tem como objetivo apresentar a 
 O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o site tem um banco de dados integrado com ambos programa C# e app Xamarin.
 </h3>
 
-## Funcionalidades:
+## :wrench: Funcionalidades:
 * Tema escuro
 * Banner Slider
 * Animações
@@ -44,6 +44,5 @@ Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab
 ## Status do projeto:
 Em andamento.
 
-:smile:
 
 
