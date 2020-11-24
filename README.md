@@ -28,11 +28,13 @@ O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o s
 
 
 ## :cd: Instalação: <a id="programa"></a> <a id="app"></a>
-Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab/banco</i> no seu servidor.
+Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab/banco</i> no seu servidor.<br>
+O cadastro e agendamento de usuário é efetuado pelo Programa e o App:
 
-Aplicações integradas: <br>
+
+### Aplicações integradas: <br>
 <a href="https://github.com/HenriqueSSP/program-cyberlab"><img src="https://img.shields.io/badge/C%20Sharp-3a067a?style=flat&logo=c-sharp"></a>
-<a href="https://github.com/HenriqueSSP/app-cyberlab"><img src="https://img.shields.io/badge/xamarin-0b0840?style=flat&logo=xamarin"></a> 
+<a href="https://github.com/HenriqueSSP/app-cyberlab"><img src="https://img.shields.io/badge/Xamarin-0b0840?style=flat&logo=xamarin"></a> 
 
 
 ## :boy: Desenvolvedores: 
