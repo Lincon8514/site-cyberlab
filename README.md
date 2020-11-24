@@ -20,19 +20,9 @@ O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o s
 
 
 ## :triangular_ruler: Layout:
-### Web:
 
 <h1 align="center">
-<img width="400px" height="226px" src="github/layoutwhite2.png"/>  <br>
-  
-<img width="400px" height="226px" src="github/layoutblack2.png"/>
-</h1>
-
-### Mobile:
-
-<h1 align="center">
-<img width="180px" height="336px" src="github/layoutwhite.png"/>
- 
+<img width="400px" height="226px" src="github/layoutwhite2.png"/>
 <img width="180px" height="336px" src="github/layoutblack.png"/>
 </h1>
 
@@ -41,8 +31,8 @@ O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o s
 Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab/banco</i> no seu servidor.
 
 Aplicações integradas: <br>
-<a href="https://github.com/HenriqueSSP/app-cyberlab"><img src="https://img.shields.io/badge/xamarin-0b0840?style=flat-square&logo=xamarin"></a> 
-<a href="https://github.com/HenriqueSSP/program-cyberlab"><img src="https://img.shields.io/badge/C%20Sharp-3a067a?style=flat-square&logo=c-sharp"></a>
+<a href="https://github.com/HenriqueSSP/app-cyberlab"><img src="https://img.shields.io/badge/xamarin-0b0840?style=flat&logo=xamarin"></a> 
+<a href="https://github.com/HenriqueSSP/program-cyberlab"><img src="https://img.shields.io/badge/C%20Sharp-3a067a?style=flat&logo=c-sharp"></a>
 
 
 ## :boy: Desenvolvedores: 
@@ -61,16 +51,3 @@ Aplicações integradas: <br>
 
 ## :pencil: Status do projeto:
 Em andamento.
-
-
-
-
-
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek"
-  width="180px" height="336px"
-  src="https://img.freepik.com/fotos-gratis/muitos-baloes-coloridos-no-ceu-azul-conceito-de-amor-no-verao-e-namorados-lua-de-mel-de-casamento-imagens-de-estilo-de-efeito-vintage_1253-1119.jpg?size=338&ext=jpg" />
-<img alt="NextLevelWeek" title="#NextLevelWeek"
-  width="180px" height="336px"
-  src="https://img.freepik.com/fotos-gratis/muitos-baloes-coloridos-no-ceu-azul-conceito-de-amor-no-verao-e-namorados-lua-de-mel-de-casamento-imagens-de-estilo-de-efeito-vintage_1253-1119.jpg?size=338&ext=jpg" />
-</h1>
