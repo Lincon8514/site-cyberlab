@@ -1,11 +1,13 @@
 <h1 align="center">CyberLab</h1> 
 
+
 ## :page_with_curl: Descrição:
 <p align="center">
 
 Este é um projeto de website institucional, que tem como objetivo apresentar a empresa(fictícia) CyberLab, seus serviços, seu app, e mostrar os agendamentos do usuário.<br> 
-O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o site tem um banco de dados integrado com ambos programa C# e app Xamarin.
+O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o site tem um banco de dados integrado com ambos [programa C#](#programa) e [app Xamarin](#app).
 </p>
+
 
 ## :wrench: Funcionalidades:
 * Tema escuro
@@ -20,11 +22,27 @@ O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o s
 ## :triangular_ruler: Layout:
 ### Web:
 
+<h1 align="center">
+<img width="400px" height="226px" src="github/layoutwhite2.png"/>  <br>
+  
+<img width="400px" height="226px" src="github/layoutblack2.png"/>
+</h1>
+
 ### Mobile:
 
+<h1 align="center">
+<img width="180px" height="336px" src="github/layoutwhite.png"/>
+ 
+<img width="180px" height="336px" src="github/layoutblack.png"/>
+</h1>
 
-## :cd: Instalação:
+
+## :cd: Instalação: <a id="programa"></a> <a id="app"></a>
 Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab/banco</i> no seu servidor.
+
+Aplicações integradas: <br>
+<a href="https://github.com/HenriqueSSP/app-cyberlab"><img src="https://img.shields.io/badge/xamarin-0b0840?style=flat-square&logo=xamarin"></a> 
+<a href="https://github.com/HenriqueSSP/program-cyberlab"><img src="https://img.shields.io/badge/C%20Sharp-3a067a?style=flat-square&logo=c-sharp"></a>
 
 
 ## :boy: Desenvolvedores: 
@@ -40,8 +58,19 @@ Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab
 <img src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+
 ## :pencil: Status do projeto:
 Em andamento.
 
 
 
+
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek"
+  width="180px" height="336px"
+  src="https://img.freepik.com/fotos-gratis/muitos-baloes-coloridos-no-ceu-azul-conceito-de-amor-no-verao-e-namorados-lua-de-mel-de-casamento-imagens-de-estilo-de-efeito-vintage_1253-1119.jpg?size=338&ext=jpg" />
+<img alt="NextLevelWeek" title="#NextLevelWeek"
+  width="180px" height="336px"
+  src="https://img.freepik.com/fotos-gratis/muitos-baloes-coloridos-no-ceu-azul-conceito-de-amor-no-verao-e-namorados-lua-de-mel-de-casamento-imagens-de-estilo-de-efeito-vintage_1253-1119.jpg?size=338&ext=jpg" />
+</h1>
