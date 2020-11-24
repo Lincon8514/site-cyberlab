@@ -45,7 +45,9 @@ Aplicações integradas: <br>
 
 ## :scroll: Licença:
 <p>
-<img src="https://img.shields.io/badge/license-MIT-brightgreen">
+<a href="https://github.com/HenriqueSSP/site-cyberlab/blob/master/LICENSE.md">
+	<img src="https://img.shields.io/badge/license-MIT-brightgreen"> 
+</a>
 </p>
 
 
