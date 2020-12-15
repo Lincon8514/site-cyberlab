@@ -4,8 +4,8 @@
 ## :page_with_curl: Descrição:
 <p align="center">
 
-Este é um projeto de website institucional, que tem como objetivo apresentar a empresa(fictícia) CyberLab, seus serviços, seu app, e mostrar os agendamentos do usuário.<br> 
-O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o site tem um banco de dados integrado com ambos [programa C#](#programa) e [app Xamarin](#app).
+Este é um projeto de website institucional que tem como objetivo apresentar a empresa CyberLab, seus serviços, seu app, e mostrar os agendamentos do usuário.<br>
+Este website faz parte do projeto de uma empresa fictícia chamada CyberLab, este projeto possui um [app Xamarin](#app), [programa C#](#programa) e um Website, logo seu banco de dados é integrado com ambas aplicações.
 </p>
 
 
@@ -28,13 +28,13 @@ O cadastro e agendamento de usuário é efetuado pelo programa e o app, logo o s
 
 
 ## :cd: Instalação: <a id="programa"></a> <a id="app"></a>
-Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab/banco</i> no seu servidor.<br>
+Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab/banco</i> no seu servidor e instale as outras aplicações integradas.<br>
 O cadastro e agendamento de usuário é efetuado pelo Programa e o App:
 
 
 ### Aplicações integradas: <br>
 <a href="https://github.com/HenriqueSSP/program-cyberlab"><img src="https://img.shields.io/badge/C%20Sharp-3a067a?style=flat&logo=c-sharp"></a>
-<a href="https://github.com/HenriqueSSP/app-cyberlab"><img src="https://img.shields.io/badge/Xamarin-0b0840?style=flat&logo=xamarin"></a> 
+<a href="https://github.com/HenriqueSSP/app-cyberlab"><img src="https://img.shields.io/badge/Xamarin-0b0840?style=flat&logo=xamarin&logoColor=white"></a> 
 
 
 ## :boy: Desenvolvedores: 
@@ -54,4 +54,4 @@ O cadastro e agendamento de usuário é efetuado pelo Programa e o App:
 
 
 ## :pencil: Status do projeto:
-Em andamento.
+Finalizado.
