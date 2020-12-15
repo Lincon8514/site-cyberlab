@@ -28,7 +28,7 @@ Este website faz parte do projeto de uma empresa fictícia chamada CyberLab, est
 
 
 ## :cd: Instalação: <a id="programa"></a> <a id="app"></a>
-Para que o php funcione use o banco de dados que está na pasta <i>site_cyberlab/banco</i> no seu servidor e instale as outras aplicações integradas.<br>
+Para que o php funcione use o banco de dados que está na pasta <i>site-cyberlab/banco</i> no seu servidor e instale as outras aplicações integradas.<br>
 O cadastro e agendamento de usuário é efetuado pelo Programa e o App:
 
 
